@@ -1,7 +1,7 @@
 package com.kgc.flume.interceptor;
 
 import org.apache.commons.lang.math.NumberUtils;
-
+//测试
 public class LogUtils {
 
     public static boolean validateStart(String log) {
